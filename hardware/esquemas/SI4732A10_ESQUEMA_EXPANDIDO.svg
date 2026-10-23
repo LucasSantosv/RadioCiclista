@@ -1,0 +1,203 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2500" height="1650" viewBox="0 0 2500 1650"><rect width="100%" height="100%" fill="white"/>
+<text x="1250" y="30" font-family="Arial,sans-serif" font-size="42" fill="#182630" text-anchor="middle" dominant-baseline="text-before-edge">SI4732-A10 — esquema expandido para ESP32</text>
+<text x="1250" y="95" font-family="Arial,sans-serif" font-size="27" fill="#182630" text-anchor="middle" dominant-baseline="text-before-edge">Todos os componentes desenhados junto às ligações do CI • Primeiro teste em FM</text>
+<text x="1250" y="150" font-family="Arial,sans-serif" font-size="26" fill="#182630" text-anchor="middle" dominant-baseline="text-before-edge">3V3 = pino 3V3 do ESP32. Todos os símbolos GND vão ao GND do ESP32.</text>
+<rect x="40" y="220" width="2420" height="1220" fill="none" stroke="#182630" stroke-width="2"/>
+<rect x="900" y="480" width="460" height="900" fill="none" stroke="#182630" stroke-width="2"/>
+<text x="1130" y="505" font-family="Arial,sans-serif" font-size="27" fill="#182630" text-anchor="middle" dominant-baseline="text-before-edge">U1 — SI4732-A10</text>
+<circle cx="925" cy="552" r="5" fill="#182630"/>
+<line x1="850" y1="600" x2="900" y2="600" stroke="#182630" stroke-width="3"/>
+<text x="917" y="585" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">1</text>
+<text x="960" y="585" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">LOUT/DFS</text>
+<line x1="1360" y1="600" x2="1410" y2="600" stroke="#182630" stroke-width="3"/>
+<text x="1343" y="585" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">16</text>
+<text x="1300" y="585" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">ROUT/DOUT</text>
+<line x1="850" y1="700" x2="900" y2="700" stroke="#182630" stroke-width="3"/>
+<text x="917" y="685" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">2</text>
+<text x="960" y="685" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">GPO3/DCLK</text>
+<line x1="1360" y1="700" x2="1410" y2="700" stroke="#182630" stroke-width="3"/>
+<text x="1343" y="685" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">15</text>
+<text x="1300" y="685" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">GND</text>
+<line x1="850" y1="800" x2="900" y2="800" stroke="#182630" stroke-width="3"/>
+<text x="917" y="785" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">3</text>
+<text x="960" y="785" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">GPO2/INTB</text>
+<line x1="1360" y1="800" x2="1410" y2="800" stroke="#182630" stroke-width="3"/>
+<text x="1343" y="785" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">14</text>
+<text x="1300" y="785" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">VDD</text>
+<line x1="850" y1="900" x2="900" y2="900" stroke="#182630" stroke-width="3"/>
+<text x="917" y="885" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">4</text>
+<text x="960" y="885" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">GPO1</text>
+<line x1="1360" y1="900" x2="1410" y2="900" stroke="#182630" stroke-width="3"/>
+<text x="1343" y="885" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">13</text>
+<text x="1300" y="885" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">RCLK</text>
+<line x1="850" y1="1000" x2="900" y2="1000" stroke="#182630" stroke-width="3"/>
+<text x="917" y="985" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">5</text>
+<text x="960" y="985" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">NC</text>
+<line x1="1360" y1="1000" x2="1410" y2="1000" stroke="#182630" stroke-width="3"/>
+<text x="1343" y="985" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">12</text>
+<text x="1300" y="985" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">SDIO</text>
+<line x1="850" y1="1100" x2="900" y2="1100" stroke="#182630" stroke-width="3"/>
+<text x="917" y="1085" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">6</text>
+<text x="960" y="1085" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">FMI</text>
+<line x1="1360" y1="1100" x2="1410" y2="1100" stroke="#182630" stroke-width="3"/>
+<text x="1343" y="1085" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">11</text>
+<text x="1300" y="1085" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">SCLK</text>
+<line x1="850" y1="1200" x2="900" y2="1200" stroke="#182630" stroke-width="3"/>
+<text x="917" y="1185" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">7</text>
+<text x="960" y="1185" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">RFGND</text>
+<line x1="1360" y1="1200" x2="1410" y2="1200" stroke="#182630" stroke-width="3"/>
+<text x="1343" y="1185" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">10</text>
+<text x="1300" y="1185" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">SENB</text>
+<line x1="850" y1="1300" x2="900" y2="1300" stroke="#182630" stroke-width="3"/>
+<text x="917" y="1285" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">8</text>
+<text x="960" y="1285" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">AMI</text>
+<line x1="1360" y1="1300" x2="1410" y2="1300" stroke="#182630" stroke-width="3"/>
+<text x="1343" y="1285" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">9</text>
+<text x="1300" y="1285" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">RST</text>
+<line x1="844" y1="594" x2="856" y2="606" stroke="#182630" stroke-width="3"/>
+<line x1="844" y1="606" x2="856" y2="594" stroke="#182630" stroke-width="3"/>
+<line x1="844" y1="794" x2="856" y2="806" stroke="#182630" stroke-width="3"/>
+<line x1="844" y1="806" x2="856" y2="794" stroke="#182630" stroke-width="3"/>
+<line x1="844" y1="894" x2="856" y2="906" stroke="#182630" stroke-width="3"/>
+<line x1="844" y1="906" x2="856" y2="894" stroke="#182630" stroke-width="3"/>
+<line x1="844" y1="994" x2="856" y2="1006" stroke="#182630" stroke-width="3"/>
+<line x1="844" y1="1006" x2="856" y2="994" stroke="#182630" stroke-width="3"/>
+<line x1="844" y1="1294" x2="856" y2="1306" stroke="#182630" stroke-width="3"/>
+<line x1="844" y1="1306" x2="856" y2="1294" stroke="#182630" stroke-width="3"/>
+<text x="830" y="572" font-family="Arial,sans-serif" font-size="22" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">Áudio L</text>
+<text x="830" y="604" font-family="Arial,sans-serif" font-size="22" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">reservado</text>
+<text x="825" y="785" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">Sem ligação</text>
+<text x="825" y="885" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">Sem ligação</text>
+<text x="825" y="985" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">Sem ligação (NC)</text>
+<text x="825" y="1285" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">AM: sem ligação agora</text>
+<line x1="1404" y1="594" x2="1416" y2="606" stroke="#182630" stroke-width="3"/>
+<line x1="1404" y1="606" x2="1416" y2="594" stroke="#182630" stroke-width="3"/>
+<text x="1440" y="585" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">Áudio R: reservado</text>
+<line x1="850" y1="700" x2="820" y2="700" stroke="#182630" stroke-width="3"/>
+<line x1="650" y1="700" x2="703.0" y2="700" stroke="#182630" stroke-width="3"/>
+<rect x="703.0" y="688" width="64" height="24" fill="none" stroke="#182630" stroke-width="2"/>
+<line x1="767.0" y1="700" x2="820" y2="700" stroke="#182630" stroke-width="3"/>
+<text x="735.0" y="652" font-family="Arial,sans-serif" font-size="21" fill="#182630" text-anchor="middle" dominant-baseline="text-before-edge">R1: 2,2 kΩ</text>
+<line x1="600" y1="700" x2="650" y2="700" stroke="#182630" stroke-width="3"/>
+<circle cx="600" cy="700" r="5" fill="#182630"/>
+<line x1="600" y1="700" x2="600" y2="590" stroke="#182630" stroke-width="3"/>
+<line x1="577" y1="590" x2="623" y2="590" stroke="#182630" stroke-width="3"/>
+<rect x="584" y="545" width="32" height="30" fill="none" stroke="#182630" stroke-width="2"/>
+<line x1="577" y1="530" x2="623" y2="530" stroke="#182630" stroke-width="3"/>
+<line x1="600" y1="575" x2="600" y2="590" stroke="#182630" stroke-width="3"/>
+<line x1="600" y1="530" x2="600" y2="545" stroke="#182630" stroke-width="3"/>
+<line x1="600" y1="530" x2="600" y2="400" stroke="#182630" stroke-width="3"/>
+<circle cx="600" cy="400" r="5" fill="#182630"/>
+<text x="380" y="565" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="middle" dominant-baseline="text-before-edge">X1</text>
+<text x="380" y="600" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="middle" dominant-baseline="text-before-edge">32,768 kHz</text>
+<text x="630" y="405" font-family="Arial,sans-serif" font-size="22" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">B</text>
+<text x="630" y="710" font-family="Arial,sans-serif" font-size="22" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">A</text>
+<line x1="400" y1="400" x2="600" y2="400" stroke="#182630" stroke-width="3"/>
+<line x1="400" y1="400" x2="400" y2="438.0" stroke="#182630" stroke-width="3"/>
+<line x1="380" y1="438.0" x2="420" y2="438.0" stroke="#182630" stroke-width="3"/>
+<line x1="380" y1="452.0" x2="420" y2="452.0" stroke="#182630" stroke-width="3"/>
+<line x1="400" y1="452.0" x2="400" y2="490" stroke="#182630" stroke-width="3"/>
+<text x="430" y="425.0" font-family="Arial,sans-serif" font-size="21" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">C2: 22 pF</text>
+<line x1="400" y1="490" x2="400" y2="505" stroke="#182630" stroke-width="3"/>
+<line x1="385.0" y1="505" x2="415.0" y2="505" stroke="#182630" stroke-width="3"/>
+<line x1="390.0" y1="513" x2="410.0" y2="513" stroke="#182630" stroke-width="3"/>
+<line x1="396.0" y1="521" x2="404.0" y2="521" stroke="#182630" stroke-width="3"/>
+<line x1="400" y1="700" x2="600" y2="700" stroke="#182630" stroke-width="3"/>
+<line x1="400" y1="700" x2="400" y2="738.0" stroke="#182630" stroke-width="3"/>
+<line x1="380" y1="738.0" x2="420" y2="738.0" stroke="#182630" stroke-width="3"/>
+<line x1="380" y1="752.0" x2="420" y2="752.0" stroke="#182630" stroke-width="3"/>
+<line x1="400" y1="752.0" x2="400" y2="790" stroke="#182630" stroke-width="3"/>
+<text x="430" y="725.0" font-family="Arial,sans-serif" font-size="21" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">C1: 22 pF</text>
+<line x1="400" y1="790" x2="400" y2="805" stroke="#182630" stroke-width="3"/>
+<line x1="385.0" y1="805" x2="415.0" y2="805" stroke="#182630" stroke-width="3"/>
+<line x1="390.0" y1="813" x2="410.0" y2="813" stroke="#182630" stroke-width="3"/>
+<line x1="396.0" y1="821" x2="404.0" y2="821" stroke="#182630" stroke-width="3"/>
+<line x1="600" y1="400" x2="1500" y2="400" stroke="#182630" stroke-width="3"/>
+<line x1="1500" y1="400" x2="1500" y2="900" stroke="#182630" stroke-width="3"/>
+<line x1="1410" y1="900" x2="1500" y2="900" stroke="#182630" stroke-width="3"/>
+<text x="1020" y="345" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="middle" dominant-baseline="text-before-edge">Ligação direta do ponto B ao pino 13 (RCLK)</text>
+<line x1="1410" y1="700" x2="1486" y2="700" stroke="#182630" stroke-width="3"/>
+<line x1="1514" y1="700" x2="1650" y2="700" stroke="#182630" stroke-width="3"/>
+<path d="M 1486 700 A 14 14 0 0 1 1514 700" fill="none" stroke="#182630" stroke-width="3"/>
+<line x1="1650" y1="700" x2="1650" y2="715" stroke="#182630" stroke-width="3"/>
+<line x1="1635.0" y1="715" x2="1665.0" y2="715" stroke="#182630" stroke-width="3"/>
+<line x1="1640.0" y1="723" x2="1660.0" y2="723" stroke="#182630" stroke-width="3"/>
+<line x1="1646.0" y1="731" x2="1654.0" y2="731" stroke="#182630" stroke-width="3"/>
+<text x="1680" y="700" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">GND</text>
+<line x1="1410" y1="800" x2="1486" y2="800" stroke="#182630" stroke-width="3"/>
+<line x1="1514" y1="800" x2="1800" y2="800" stroke="#182630" stroke-width="3"/>
+<path d="M 1486 800 A 14 14 0 0 1 1514 800" fill="none" stroke="#182630" stroke-width="3"/>
+<line x1="1800" y1="800" x2="1800" y2="500" stroke="#182630" stroke-width="3"/>
+<line x1="1800" y1="500" x2="2330" y2="500" stroke="#182630" stroke-width="3"/>
+<text x="2050" y="445" font-family="Arial,sans-serif" font-size="26" fill="#182630" text-anchor="middle" dominant-baseline="text-before-edge">3V3 do ESP32</text>
+<circle cx="1900" cy="500" r="5" fill="#182630"/>
+<circle cx="2200" cy="500" r="5" fill="#182630"/>
+<line x1="1900" y1="500" x2="1900" y2="568.0" stroke="#182630" stroke-width="3"/>
+<line x1="1880" y1="568.0" x2="1920" y2="568.0" stroke="#182630" stroke-width="3"/>
+<line x1="1880" y1="582.0" x2="1920" y2="582.0" stroke="#182630" stroke-width="3"/>
+<line x1="1900" y1="582.0" x2="1900" y2="650" stroke="#182630" stroke-width="3"/>
+<text x="1930" y="555.0" font-family="Arial,sans-serif" font-size="21" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">C4: 100 nF</text>
+<line x1="2200" y1="500" x2="2200" y2="568.0" stroke="#182630" stroke-width="3"/>
+<line x1="2180" y1="568.0" x2="2220" y2="568.0" stroke="#182630" stroke-width="3"/>
+<line x1="2180" y1="582.0" x2="2220" y2="582.0" stroke="#182630" stroke-width="3"/>
+<line x1="2200" y1="582.0" x2="2200" y2="650" stroke="#182630" stroke-width="3"/>
+<text x="2230" y="555.0" font-family="Arial,sans-serif" font-size="21" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">C5: 10 µF</text>
+<text x="1930" y="605" font-family="Arial,sans-serif" font-size="21" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">(104)</text>
+<text x="2230" y="515" font-family="Arial,sans-serif" font-size="25" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">+</text>
+<line x1="1900" y1="650" x2="2330" y2="650" stroke="#182630" stroke-width="3"/>
+<circle cx="1900" cy="650" r="5" fill="#182630"/>
+<circle cx="2200" cy="650" r="5" fill="#182630"/>
+<line x1="2330" y1="650" x2="2330" y2="665" stroke="#182630" stroke-width="3"/>
+<line x1="2315.0" y1="665" x2="2345.0" y2="665" stroke="#182630" stroke-width="3"/>
+<line x1="2320.0" y1="673" x2="2340.0" y2="673" stroke="#182630" stroke-width="3"/>
+<line x1="2326.0" y1="681" x2="2334.0" y2="681" stroke="#182630" stroke-width="3"/>
+<text x="2110" y="700" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="middle" dominant-baseline="text-before-edge">C5: negativo (−) no GND</text>
+<line x1="1410" y1="1000" x2="2240" y2="1000" stroke="#182630" stroke-width="3"/>
+<circle cx="1850" cy="1000" r="5" fill="#182630"/>
+<line x1="1850" y1="930" x2="1850" y2="941" stroke="#182630" stroke-width="3"/>
+<rect x="1839" y="941" width="22" height="42" fill="none" stroke="#182630" stroke-width="2"/>
+<line x1="1850" y1="983" x2="1850" y2="1000" stroke="#182630" stroke-width="3"/>
+<text x="1818" y="916" font-family="Arial,sans-serif" font-size="21" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">3V3</text>
+<text x="1880" y="940" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">R2: 4,7 kΩ</text>
+<text x="2260" y="985" font-family="Arial,sans-serif" font-size="25" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">GPIO21</text>
+<text x="1590" y="1018" font-family="Arial,sans-serif" font-size="21" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">SDA</text>
+<line x1="1410" y1="1100" x2="2240" y2="1100" stroke="#182630" stroke-width="3"/>
+<circle cx="1850" cy="1100" r="5" fill="#182630"/>
+<line x1="1850" y1="1030" x2="1850" y2="1041" stroke="#182630" stroke-width="3"/>
+<rect x="1839" y="1041" width="22" height="42" fill="none" stroke="#182630" stroke-width="2"/>
+<line x1="1850" y1="1083" x2="1850" y2="1100" stroke="#182630" stroke-width="3"/>
+<text x="1818" y="1016" font-family="Arial,sans-serif" font-size="21" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">3V3</text>
+<text x="1880" y="1040" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">R3: 4,7 kΩ</text>
+<text x="2260" y="1085" font-family="Arial,sans-serif" font-size="25" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">GPIO22</text>
+<text x="1590" y="1118" font-family="Arial,sans-serif" font-size="21" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">SCL</text>
+<line x1="1410" y1="1300" x2="2240" y2="1300" stroke="#182630" stroke-width="3"/>
+<circle cx="1850" cy="1300" r="5" fill="#182630"/>
+<line x1="1850" y1="1230" x2="1850" y2="1241" stroke="#182630" stroke-width="3"/>
+<rect x="1839" y="1241" width="22" height="42" fill="none" stroke="#182630" stroke-width="2"/>
+<line x1="1850" y1="1283" x2="1850" y2="1300" stroke="#182630" stroke-width="3"/>
+<text x="1818" y="1216" font-family="Arial,sans-serif" font-size="21" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">3V3</text>
+<text x="1880" y="1240" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">R4: 10 kΩ</text>
+<text x="2260" y="1285" font-family="Arial,sans-serif" font-size="25" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">GPIO14</text>
+<text x="1590" y="1318" font-family="Arial,sans-serif" font-size="21" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">RESET</text>
+<line x1="1410" y1="1200" x2="1670" y2="1200" stroke="#182630" stroke-width="3"/>
+<text x="1700" y="1185" font-family="Arial,sans-serif" font-size="24" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">3V3 — endereço I²C 0x11</text>
+<line x1="850" y1="1100" x2="520" y2="1100" stroke="#182630" stroke-width="3"/>
+<line x1="520" y1="1075" x2="520" y2="1125" stroke="#182630" stroke-width="3"/>
+<line x1="505" y1="1075" x2="505" y2="1125" stroke="#182630" stroke-width="3"/>
+<line x1="505" y1="1100" x2="200" y2="1100" stroke="#182630" stroke-width="3"/>
+<line x1="200" y1="1100" x2="200" y2="1020" stroke="#182630" stroke-width="3"/>
+<line x1="170" y1="990" x2="200" y2="1020" stroke="#182630" stroke-width="3"/>
+<line x1="230" y1="990" x2="200" y2="1020" stroke="#182630" stroke-width="3"/>
+<line x1="170" y1="990" x2="230" y2="990" stroke="#182630" stroke-width="3"/>
+<text x="200" y="940" font-family="Arial,sans-serif" font-size="26" fill="#182630" text-anchor="middle" dominant-baseline="text-before-edge">Antena FM</text>
+<text x="510" y="1140" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="middle" dominant-baseline="text-before-edge">C3: 1 nF (102)</text>
+<line x1="850" y1="1200" x2="740" y2="1200" stroke="#182630" stroke-width="3"/>
+<line x1="740" y1="1200" x2="740" y2="1215" stroke="#182630" stroke-width="3"/>
+<line x1="725.0" y1="1215" x2="755.0" y2="1215" stroke="#182630" stroke-width="3"/>
+<line x1="730.0" y1="1223" x2="750.0" y2="1223" stroke="#182630" stroke-width="3"/>
+<line x1="736.0" y1="1231" x2="744.0" y2="1231" stroke="#182630" stroke-width="3"/>
+<text x="700" y="1200" font-family="Arial,sans-serif" font-size="23" fill="#182630" text-anchor="end" dominant-baseline="text-before-edge">GND</text>
+<text x="60" y="1475" font-family="Arial,sans-serif" font-size="26" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">● Ponto preto em um fio = conexão. Cruzamento com uma ponte/arco = fios SEM conexão.</text>
+<text x="60" y="1520" font-family="Arial,sans-serif" font-size="26" fill="#182630" text-anchor="start" dominant-baseline="text-before-edge">C1 e C2: 22 pF ou associação equivalente. Mantenha cristal, R1, C1 e C2 com ligações curtas.</text>
+<text x="60" y="1565" font-family="Arial,sans-serif" font-size="26" fill="#b00020" text-anchor="start" dominant-baseline="text-before-edge">Pinos 1 e 16: não ligar ao PCM5102A. U1 recebe SOMENTE 3,3 V; nunca 5 V.</text>
+</svg>

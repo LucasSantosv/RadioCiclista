@@ -1,0 +1,16 @@
+build*/
+.pio/
+.vscode/
+__pycache__/
+*.pyc
+*.bin
+*.elf
+*.map
+*.log
+*.zip
+.env
+.env.*
+secrets.h
+credentials.h
+Thumbs.db
+.DS_Store
